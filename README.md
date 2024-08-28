@@ -5,5 +5,11 @@ Some description!
 ## Subheader
 
 Watch tutorial on Youtube.  
+
 ## Subheader 2
+
 Be Consistent!
+
+## Local Development
+
+1. Open index.html in your browser
